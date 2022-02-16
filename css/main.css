@@ -25,7 +25,6 @@ h3 {
   font-family: var(--heading-font);
 }
 body {
-  /* overflow: hidden; */
   height: max-content;
 }
 p,
@@ -157,6 +156,7 @@ header .container a:hover {
 .landing .container .result > div span {
   font-size: 80px;
   font-weight: bold;
+  color: var(--color-neutral-1);
 }
 .landing .container .result > div p {
   align-self: center;
